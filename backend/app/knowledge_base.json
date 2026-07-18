@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Password and access management",
+    "section": "Login support",
+    "intent": "password_reset",
+    "keywords": [
+      "forgot password",
+      "reset password",
+      "login",
+      "locked",
+      "access"
+    ],
+    "content": "To reset your Straight2Bank password, select Forgot Password on the login page, enter your organisation ID and user ID, and complete the registered authentication method. If the user is locked, wait 30 minutes or ask your organisation security administrator to unlock it."
+  },
+  {
+    "title": "Payment cut-off guidance",
+    "section": "Payments",
+    "intent": "payment_cutoff",
+    "keywords": [
+      "cut off",
+      "cut-off",
+      "same day",
+      "payment time"
+    ],
+    "content": "Payment cut-off times vary by country, currency, payment type and service agreement. The payment screen displays the applicable value date and cut-off warning. For an exact production cut-off, use the official country payment guide or contact servicing."
+  },
+  {
+    "title": "Pending payment status",
+    "section": "Payments",
+    "intent": "payment_status",
+    "keywords": [
+      "pending payment",
+      "payment pending",
+      "status",
+      "processing",
+      "awaiting approval"
+    ],
+    "content": "A payment may remain pending because it is awaiting authorisation, scheduled for a future value date, under compliance review, or submitted after the cut-off. Open Payments, then Manage Payments, select the transaction and review the status timeline."
+  },
+  {
+    "title": "Beneficiary maintenance",
+    "section": "Beneficiaries",
+    "intent": "beneficiary",
+    "keywords": [
+      "beneficiary",
+      "add payee",
+      "modify payee"
+    ],
+    "content": "Beneficiary creation or modification must be completed by an authorised user and may require maker-checker approval. The assistant can explain steps but cannot create, modify or approve a beneficiary."
+  },
+  {
+    "title": "Statement download",
+    "section": "Accounts",
+    "intent": "statement",
+    "keywords": [
+      "statement",
+      "download",
+      "account statement",
+      "transaction report"
+    ],
+    "content": "Open Accounts, then Account Information, then Statements. Choose the account and date range, select an available format and download. Availability depends on your organisation entitlements."
+  },
+  {
+    "title": "Bulk file validation",
+    "section": "Bulk payments",
+    "intent": "file_upload",
+    "keywords": [
+      "upload failed",
+      "bulk file",
+      "file rejected",
+      "validation error"
+    ],
+    "content": "Review the file validation report for format, mandatory-field, duplicate-reference and entitlement errors. Correct the source file and upload it again. Do not paste confidential payment-file contents into chat."
+  },
+  {
+    "title": "Contact and escalation",
+    "section": "Support",
+    "intent": "human_support",
+    "keywords": [
+      "agent",
+      "human",
+      "call me",
+      "support",
+      "complaint"
+    ],
+    "content": "The assistant can create a support request with a safe conversation summary. Do not provide passwords, PINs, OTPs, full account numbers or confidential files."
+  }
+]

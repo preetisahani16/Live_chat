@@ -1,0 +1,7 @@
+S2B AI Voice Agent - Fixed Working Version
+
+Fix included:
+- React Chat component useEffect cleanup now returns a function.
+- Prevents "Uncaught TypeError: destroy is not a function" and white screen after login.
+
+Run backend first, then frontend. See START_HERE_WINDOWS.md.
